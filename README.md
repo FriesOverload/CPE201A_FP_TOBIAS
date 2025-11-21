@@ -1,8 +1,8 @@
-<h6 align="left">Final Project for Computer System Administration and Troubleshooting</h6>
+<h6 align="center">Final Project for Computer System Administration and Troubleshooting</h6>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="samieeefrfr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
